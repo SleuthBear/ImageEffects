@@ -1,0 +1,10 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/dylanbeaumont/CLionProjects/PixelSorting -B /Users/dylanbeaumont/CLionProjects/PixelSorting/cmake-build-debug
+CMake Warning (dev) at CMakeLists.txt:5:
+  Syntax Warning in cmake code at column 50
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/dylanbeaumont/CLionProjects/PixelSorting/cmake-build-debug

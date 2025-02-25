@@ -1,0 +1,21 @@
+# ninja log v6
+2	107	1740375370493343396	CMakeFiles/PixelSorting.dir/include/stb_image_write.cpp.o	5196613bf9d76e20
+2	50	1740480820381700536	build.ninja	8bf60612821298f6
+0	171	1740374713028796334	CMakeFiles/PixelSorting.dir/include/stb_image.cpp.o	d9565a7d5260aa91
+3	460	1740480659998384898	CMakeFiles/PixelSorting.dir/main.cpp.o	bd98c3c548c344c7
+6	327	1740480536726857396	CMakeFiles/PixelSorting.dir/Palette.cpp.o	d61c2f8e2ecdb889
+19	536	1740458530433087300	CMakeFiles/PixelSorting.dir/Effect.cpp.o	aec2959c52657b88
+460	492	1740480660454727864	PixelSorting	4d1294f90cdcd8d0
+7	183	1740461516997299175	CMakeFiles/PixelSorting.dir/Pixelator.cpp.o	1cf2dc21864f89b3
+7	181	1740481759692684814	CMakeFiles/PixelSorting.dir/Pixelator.cpp.o	1cf2dc21864f89b3
+7	412	1740482195998512753	CMakeFiles/PixelSorting.dir/PixelSorter.cpp.o	f7fd8b436b31c663
+6	437	1740482195997931217	CMakeFiles/PixelSorting.dir/main.cpp.o	bd98c3c548c344c7
+437	527	1740482196428692191	PixelSorting	4354ca6b68a3c715
+6	450	1740482281524916106	CMakeFiles/PixelSorting.dir/main.cpp.o	bd98c3c548c344c7
+450	485	1740482281968597653	PixelSorting	4354ca6b68a3c715
+5	428	1740482304857480317	CMakeFiles/PixelSorting.dir/main.cpp.o	bd98c3c548c344c7
+428	459	1740482305280678849	PixelSorting	4354ca6b68a3c715
+5	418	1740482372947535830	CMakeFiles/PixelSorting.dir/PixelSorter.cpp.o	f7fd8b436b31c663
+418	452	1740482373359967899	PixelSorting	4354ca6b68a3c715
+5	433	1740482413056758657	CMakeFiles/PixelSorting.dir/main.cpp.o	bd98c3c548c344c7
+433	463	1740482413484919971	PixelSorting	4354ca6b68a3c715
